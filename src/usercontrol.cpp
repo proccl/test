@@ -2,7 +2,6 @@
 
 #include <iostream>
 
-#include "autonomous.h"
 #include "basic-functions.h"
 #include "chassis.h"
 #include "controller.h"
@@ -66,8 +65,8 @@ void userControl() {
     vex::thread *T = nullptr;
     while (true) {
         // // ---------------------- 技能赛手动自动切换 ------------------------
-        // // --------- 手动 -> 自动：按RIGHT键 / 自动 -> 手动：按DOWN键 ---------
-        // if (press_RIGHT && T == nullptr) {  // 进入自动
+        // // --------- 手动 -> 自动：按RIGHT键 / 自动 -> 手动：按DOWN键
+        // --------- if (press_RIGHT && T == nullptr) {  // 进入自动
         //     press_RIGHT = false;
         //     is_user_control = false;
         //     Chassis::getInstance()->manualSetRobotVel(0, 0);
