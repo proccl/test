@@ -46,6 +46,12 @@ readme.md第一行写上自己的名字。
 
 完成上述任务，git上传所有代码到main分支，在本仓库创建issue，将个人仓库链接粘贴至issue下。
 
+
+
+## DDL
+
+9月28号（周六）中午12点
+
 ## 参考资料（有任何问题QQ群中直接提问）
 1. 普渡大学VEX官网: https://wiki.purduesigbots.com/
 2. VEX 官方论坛: https://www.vexforum.com/
