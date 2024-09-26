@@ -1,0 +1,19 @@
+{
+	"extension": {
+		"version": "0.6.0",
+		"json": 2
+	},
+	"project": {
+		"name": "STRAIGHT-WHEELS-WITHOUT-POSITION-TEMPLATE",
+		"description": "",
+		"creationDate": "2024/7/3 22:55:50",
+		"platform": "V5",
+		"language": "cpp",
+		"slot": 1,
+		"sdkVersion": "V5_20240223_11_00_00",
+		"cpp": {
+			"includePath": [],
+			"printf_float": true
+		}
+	}
+}
